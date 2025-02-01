@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Aladurthi Sai Meghanath! 👋
 
-<!--
-**SaiMeghanath/SaiMeghanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 MCA (AI Specialization) | Aspiring AI Researcher
+- 📍 Based in Tirupati, India
+- 💡 Passionate about Deep Learning & Explainable AI
+- 🎯 Ph.D. aspirant in Artificial Intelligence
+- 🛠 Python Full Stack Developer | Data Science Enthusiast
 
-Here are some ideas to get you started:
+## 🛠 Skills & Technologies
+- **Programming:** Python (Full Stack), R
+- **AI & ML:** Deep Learning, Explainable AI, NLP
+- **Cloud Computing:** AWS (Certified in Machine Learning Foundations)
+- **Development:** Flask, Django, FastAPI
+- **Data Science:** Pandas, NumPy, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+🔍 AI Research: **Explainable AI in Deep Learning**  
+📊 **Data Science Portfolio** (Coming Soon)  
+🌐 **Web Applications with Python Full Stack**  
+🤖 **NLP Project:** Text Summarization & Sentiment Analysis  
+
+## 📜 Certifications
+🏆 AWS Academy Machine Learning Foundations (Nov 2022)  
+🏅 Python Full Stack Internship (Sattava Infotech)  
+📜 APSCHE: **Foundations of AI & Machine Learning Certification** 
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aladurthi-sai-meghanath-986501228)  
+[![Email](https://img.shields.io/badge/Email-saimeghanath052@gmail.com-blue?style=for-the-badge)](mailto:saimeghanath052@gmail.com)
+
