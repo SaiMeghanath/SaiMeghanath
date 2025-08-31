@@ -20,7 +20,6 @@
 - Data Pipelines, Data Ingestion  
 
 ### ☁️ Cloud Computing  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" style="vertical-align:middle; margin-right:10px;" />  
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" style="vertical-align:middle; margin-right:10px;" />  
 
 - **AWS:** Cloud Foundations, ML Foundations  
