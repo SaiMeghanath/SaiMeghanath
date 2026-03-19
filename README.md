@@ -1,87 +1,91 @@
-# Hi there, I'm Aladurthi Sai Meghanath! 👨‍🎓 👋  
+<div align="center">
+Aladurthi Sai Meghanath
+MCA (AI Specialization) · Amrita Vishwa Vidyapeetham
+Building AI that understands human language — especially languages that AI has historically ignored.
 
-🎓 MCA (AI Specialization) | Aspiring AI Researcher  
-📍 Based in Tirupati, India  
-🔍 Passionate about Deep Learning & Explainable AI  
-🎯 Ph.D. aspirant in Artificial Intelligence  
-💻 Python Full Stack Developer | Data Science Enthusiast  
-
----
-
-## ⚡ Skills & Technologies  
-
-### 👨‍💻 Programming  
-- Python (Full Stack)  
-- R  
-
-### 🤖 AI & Machine Learning  
-- Deep Learning, Explainable AI (XAI), NLP  
-- TensorFlow, ML APIs  
-- Data Pipelines, Data Ingestion  
-
-### ☁️ Cloud Computing  
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" style="vertical-align:middle; margin-right:10px;" />  
-
-- **AWS:** Cloud Foundations, ML Foundations  
-- **Google Cloud:** Cloud Computing Foundations, Compute Engine, Cloud Storage  
-- **Networking & Security:** IAM, Cloud Security, Load Balancing  
-- **Infrastructure:** Kubernetes, System Monitoring  
-
-### 🛠️ Development  
-- Flask, Django, FastAPI  
-- REST APIs, Cloud APIs  
-
-### 📊 Data Science  
-- Pandas, NumPy, Matplotlib  
-- BigQuery, Pub/Sub  
+</div>
 
 ---
 
-## 📂 Projects  
+## Research Interests
+I work at the intersection of Natural Language Processing, Large Language Models, and low-resource language AI. My long-term goal is to contribute to foundation model research for Indic and Dravidian languages — building AI systems that serve speakers of Telugu, Tamil, and other underrepresented languages with the same fidelity as English speakers.
 
-- 🧠 **AI Research:** Explainable AI in Deep Learning  
-- 📰 **AI-Powered News Analyzer:** NLP-based summarization & sentiment analysis  
-- 💬 **AI Chatbot:** Conversational assistant using Flask + ML  
-- 🎯 **AI Career Planner:** Recommender system for career path guidance  
-- 💻 **Web Applications with Python Full Stack**  
-- 📊 **Data Science Portfolio (Coming Soon)**  
-
----
-
-## 🎓 Certifications & Badges  
-
-### 🌩️ AWS Certifications  
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="30" style="vertical-align:middle; margin-right:6px;" />  
-
-- 🏅 AWS Academy Graduate – Cloud Foundations (2022)  
-- 🏅 AWS Academy Graduate – Machine Learning Foundations (2022)  
-
-### 🏆 Google Cloud Skill Badges  
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30" style="vertical-align:middle; margin-right:6px;" />  
-
-- Build a Secure Google Cloud Network  
-- Implement Load Balancing on Compute Engine  
-- Prepare Data for ML APIs  
-- Set Up App Dev Environment  
-
-### 📜 Other Certifications  
-- APSCHE: Foundations of AI & Machine Learning Certification  
-- Python Full Stack Internship (Sattava Infotech)  
+**Active focus areas:**
+- Sentiment analysis & text classification for low-resource language settings
+- Conversational AI with domain-specific constraints (mental health, accessibility)
+- Explainability in deep learning (LIME/SHAP applied to NLP models)
+- Multilingual model evaluation and fine-tuning
 
 ---
 
-## 🤝 Connect With Me  
+## Projects
 
-<a href="https://github.com/SaiMeghanath">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40">
-</a>
+🗞️ **[AI-Powered News Analyzer](https://github.com/SaiMeghanath/news-analyzer-nlp)**
+NLP pipeline for real-time news summarization and multi-class sentiment classification. Integrates NewsAPI with HuggingFace Transformer models served through a Flask web interface. Explores the gap between lexicon-based (TextBlob) and transformer-based sentiment approaches on news-domain text.
 
-<a href="https://www.linkedin.com/in/meghanath03/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
-</a>
-
-<a href="mailto:saimeghanath052@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
-</a>
+`Python` `HuggingFace Transformers` `Flask` `NewsAPI` `NLP`
 
 ---
+
+🧠 **[AI Mental Health Chatbot](https://github.com/SaiMeghanath/AI-Mental-Health-Chatbot)**
+Conversational agent for empathetic mental health support, combining emotion detection and sentiment classification to generate context-aware responses. Built with ethical AI design principles — privacy-conscious, non-diagnostic, and grounded in publicly available emotion/sentiment datasets from HuggingFace.
+
+`Python` `HuggingFace Transformers` `PyTorch` `Flask` `Emotion Detection`
+
+---
+
+✍️ **[AI Handwritten Digit Recognizer](https://github.com/SaiMeghanath/AI_Handwritten_Digit_Recognizer)**
+CNN trained on MNIST achieving high classification accuracy, deployed as a real-time interactive web app via Gradio. A clean study in the full loop: architecture design → training → evaluation → deployment.
+
+`Python` `TensorFlow/Keras` `CNN` `Gradio` `MNIST`
+
+---
+
+🖼️ **[AI Image Captioning](https://github.com/SaiMeghanath/AI-Image-Captioning)**
+Vision-language model project using Salesforce's BLIP for automatic image caption generation. Explores multimodal AI — bridging computer vision and natural language generation.
+
+`Python` `BLIP` `HuggingFace` `Vision-Language Models`
+
+---
+
+🔬 **[NLP Coursework](https://github.com/SaiMeghanath/nlp-coursework)**
+Structured lab notebooks covering the NLP fundamentals pipeline: tokenization, regex patterns, TF-IDF and count-based vectorization, word embeddings (Word2Vec, GloVe). Each notebook is self-contained with explanation.
+
+`Jupyter` `NLTK` `scikit-learn` `Word2Vec` `GloVe`
+
+---
+
+## Technical Stack
+
+| Area | Tools |
+|------|-------|
+| NLP / LLMs | HuggingFace Transformers, NLTK, spaCy, TextBlob |
+| Deep Learning | PyTorch, TensorFlow, Keras |
+| ML | scikit-learn, NumPy, Pandas |
+| Deployment | Flask, Gradio, Streamlit |
+| Cloud | AWS (ML Foundations), Google Cloud (Vertex AI, Cloud Skills) |
+| Languages | Python (primary), R |
+
+---
+
+## Background
+
+🎓 **MCA in AI** — Amrita Vishwa Vidyapeetham (2024–present, Sem III)
+🎓 **BCA in AI & Data Science** — SDHR Degree College, SVU (first batch in state, 2021–2024)
+💼 **Python Full Stack Intern** — Sattava Infotech (Jan–May 2024)
+📜 AWS Academy ML Foundations · APSCHE AI/ML Certification · Google Cloud Career Launchpad
+
+---
+
+## Currently
+
+- Applying to research internships in NLP and Indic language AI (IIT Madras AI4Bharat, IIT Palakkad, IIIT-H IHUB-DATA)
+- Preparing a HuggingFace Space demo for multilingual/low-resource text classification
+- UGC NET preparation begins June 2026 (target: Dec 2026 exam)
+- **Long-term goal:** PhD in AI with focus on foundation models for Indic languages
+
+---
+
+<div align="center">
+"Most AI speaks English fluently. I want to change what 'fluent' means."
+</div>
